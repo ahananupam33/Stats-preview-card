@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click here](https://your-solution-url.com)
+- Solution URL: [Click here](https://ahananupam33.github.io/Stats-preview-card/)
 
 ## Procedure
 
